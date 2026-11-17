@@ -1,1 +1,5 @@
 node_modules/
+
+# software factory runtime state
+/factory/jobs/
+/.worktrees/
