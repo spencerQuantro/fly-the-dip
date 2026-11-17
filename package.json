@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@spencerquantro/agent-factory": "github:spencerQuantro/agent-factory"
+  }
+}
